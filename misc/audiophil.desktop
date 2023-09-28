@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=AudioPhil
+Type=Application
+GenericName=Audio Player
+Comment=Play your music in tabbed playlists
+Version=0.4
+Icon=audiophil
+TryExec=audiophil
+Exec=audiophil
+Categories=AudioVideo;Audio;Player;Qt;
+Terminal=false

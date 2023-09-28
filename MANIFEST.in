@@ -1,0 +1,9 @@
+include misc/audiophil.desktop
+include misc/audiophil-*.ebuild
+include resources/*.svg
+include resources/*.qrc
+include resources/*.ui
+include LICENSE.txt
+include Makefile
+exclude src/audiophil/ui_*.py
+exclude src/audiophil/*_rc.py

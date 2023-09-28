@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>config.svg</file>
+    <file>fileclose.svg</file>
+    <file>audiophil.svg</file>
+    <file>volume-mute.svg</file>
+    <file>volume-med.svg</file>
+    <file>playlist_remove.svg</file>
+    <file>playlist_add.svg</file>
+    <file>player_stop.svg</file>
+    <file>player_start.svg</file>
+    <file>player_play.svg</file>
+    <file>player_pause.svg</file>
+    <file>player_end.svg</file>
+  </qresource>
+</RCC>

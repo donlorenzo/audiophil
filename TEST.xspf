@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+	<title>Sophie Zelmani</title>
+	<date>2015-01-24T12:10:31</date>
+	<trackList>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/A%20Decade%20of%20Dreams/%5BSophie%20Zelmani%5D%2001%20Dreamer.mp3</location>
+			<title>Dreamer</title>
+			<creator>Sophie Zelmani</creator>
+			<album>A Decade of Dreams</album>
+			<trackNum>1</trackNum>
+			<duration>270344</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/A%20Decade%20of%20Dreams/%5BSophie%20Zelmani%5D%2002%20I%20Can%27t%20Change%20%5BNew%20Song%5D.mp3</location>
+			<title>I Can't Change [New Song]</title>
+			<creator>Sophie Zelmani</creator>
+			<album>A Decade of Dreams</album>
+			<trackNum>2</trackNum>
+			<duration>251564</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/A%20Decade%20of%20Dreams/%5BSophie%20Zelmani%5D%2003%20Going%20Home.mp3</location>
+			<title>Going Home</title>
+			<creator>Sophie Zelmani</creator>
+			<album>A Decade of Dreams</album>
+			<trackNum>3</trackNum>
+			<duration>250493</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/A%20Decade%20of%20Dreams/%5BSophie%20Zelmani%5D%2004%20Precious%20Burden.mp3</location>
+			<title>Precious Burden</title>
+			<creator>Sophie Zelmani</creator>
+			<album>A Decade of Dreams</album>
+			<trackNum>4</trackNum>
+			<duration>209276</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/A%20Decade%20of%20Dreams/%5BSophie%20Zelmani%5D%2005%20People.mp3</location>
+			<title>People</title>
+			<creator>Sophie Zelmani</creator>
+			<album>A Decade of Dreams</album>
+			<trackNum>5</trackNum>
+			<duration>226985</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/A%20Decade%20of%20Dreams/%5BSophie%20Zelmani%5D%2006%20Bitter%20Kind%20%5BNew%20Song%5D.mp3</location>
+			<title>Bitter Kind [New Song]</title>
+			<creator>Sophie Zelmani</creator>
+			<album>A Decade of Dreams</album>
+			<trackNum>6</trackNum>
+			<duration>234455</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/A%20Decade%20of%20Dreams/%5BSophie%20Zelmani%5D%2007%20Oh%20Dear.mp3</location>
+			<title>Oh Dear</title>
+			<creator>Sophie Zelmani</creator>
+			<album>A Decade of Dreams</album>
+			<trackNum>7</trackNum>
+			<duration>429623</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/A%20Decade%20of%20Dreams/%5BSophie%20Zelmani%5D%2008%20Stand%20By.mp3</location>
+			<title>Stand By</title>
+			<creator>Sophie Zelmani</creator>
+			<album>A Decade of Dreams</album>
+			<trackNum>8</trackNum>
+			<duration>185271</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/A%20Decade%20of%20Dreams/%5BSophie%20Zelmani%5D%2009%20Happier%20Man.mp3</location>
+			<title>Happier Man</title>
+			<creator>Sophie Zelmani</creator>
+			<album>A Decade of Dreams</album>
+			<trackNum>9</trackNum>
+			<duration>266060</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/A%20Decade%20of%20Dreams/%5BSophie%20Zelmani%5D%2010%20Leaving.mp3</location>
+			<title>Leaving</title>
+			<creator>Sophie Zelmani</creator>
+			<album>A Decade of Dreams</album>
+			<trackNum>10</trackNum>
+			<duration>274105</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/A%20Decade%20of%20Dreams/%5BSophie%20Zelmani%5D%2011%20Nostalgia.mp3</location>
+			<title>Nostalgia</title>
+			<creator>Sophie Zelmani</creator>
+			<album>A Decade of Dreams</album>
+			<trackNum>11</trackNum>
+			<duration>237276</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/A%20Decade%20of%20Dreams/%5BSophie%20Zelmani%5D%2012%20So%20Long%20%5BAranjuez%20version%5D.mp3</location>
+			<title>So Long [Aranjuez version]</title>
+			<creator>Sophie Zelmani</creator>
+			<album>A Decade of Dreams</album>
+			<trackNum>12</trackNum>
+			<duration>310934</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/A%20Decade%20of%20Dreams/%5BSophie%20Zelmani%5D%2013%20Gone%20with%20the%20Madness.mp3</location>
+			<title>Gone with the Madness</title>
+			<creator>Sophie Zelmani</creator>
+			<album>A Decade of Dreams</album>
+			<trackNum>13</trackNum>
+			<duration>172969</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/A%20Decade%20of%20Dreams/%5BSophie%20Zelmani%5D%2014%20Fade.mp3</location>
+			<title>Fade</title>
+			<creator>Sophie Zelmani</creator>
+			<album>A Decade of Dreams</album>
+			<trackNum>14</trackNum>
+			<duration>150010</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/A%20Decade%20of%20Dreams/%5BSophie%20Zelmani%5D%2015%20To%20Know%20You.mp3</location>
+			<title>To Know You</title>
+			<creator>Sophie Zelmani</creator>
+			<album>A Decade of Dreams</album>
+			<trackNum>15</trackNum>
+			<duration>162599</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/A%20Decade%20of%20Dreams/%5BSophie%20Zelmani%5D%2016%20Always%20You%20%5BTen%20Tears%20Later%5D.mp3</location>
+			<title>Always You [Ten Tears Later]</title>
+			<creator>Sophie Zelmani</creator>
+			<album>A Decade of Dreams</album>
+			<trackNum>16</trackNum>
+			<duration>148051</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/A%20Decade%20of%20Dreams/%5BSophie%20Zelmani%5D%2017%20Got%20to%20Stop.mp3</location>
+			<title>Got to Stop</title>
+			<creator>Sophie Zelmani</creator>
+			<album>A Decade of Dreams</album>
+			<trackNum>17</trackNum>
+			<duration>428918</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/A%20Decade%20of%20Dreams/%5BSophie%20Zelmani%5D%2018%20Our%20Love%20%5BNew%20Song%5D.mp3</location>
+			<title>Our Love [New Song]</title>
+			<creator>Sophie Zelmani</creator>
+			<album>A Decade of Dreams</album>
+			<trackNum>18</trackNum>
+			<duration>301374</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Love%20Affair/%5BSophie%20Zelmani%5D%2001%20september%20tears.mp3</location>
+			<title>September Tears</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Love Affair</album>
+			<trackNum>1</trackNum>
+			<duration>171808</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Love%20Affair/%5BSophie%20Zelmani%5D%2002%20majas%20song.mp3</location>
+			<title>Maja's Song</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Love Affair</album>
+			<trackNum>2</trackNum>
+			<duration>226198</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Love%20Affair/%5BSophie%20Zelmani%5D%2003%20to%20know%20you.mp3</location>
+			<title>To Know You</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Love Affair</album>
+			<trackNum>3</trackNum>
+			<duration>164195</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Love%20Affair/%5BSophie%20Zelmani%5D%2004%20memories.mp3</location>
+			<title>Memories</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Love Affair</album>
+			<trackNum>4</trackNum>
+			<duration>199958</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Love%20Affair/%5BSophie%20Zelmani%5D%2005%20truth.mp3</location>
+			<title>Truth</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Love Affair</album>
+			<trackNum>5</trackNum>
+			<duration>265101</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Love%20Affair/%5BSophie%20Zelmani%5D%2006%20keep%20it%20to%20yourself.mp3</location>
+			<title>Keep It To Yourself</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Love Affair</album>
+			<trackNum>6</trackNum>
+			<duration>164954</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Love%20Affair/%5BSophie%20Zelmani%5D%2007%20grand%20as%20loving.mp3</location>
+			<title>Grand As Loving</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Love Affair</album>
+			<trackNum>7</trackNum>
+			<duration>118072</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Love%20Affair/%5BSophie%20Zelmani%5D%2008%20dream%20gets%20clear.mp3</location>
+			<title>Dream Gets Clear</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Love Affair</album>
+			<trackNum>8</trackNum>
+			<duration>232817</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Love%20Affair/%5BSophie%20Zelmani%5D%2009%20fade.mp3</location>
+			<title>Fade</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Love Affair</album>
+			<trackNum>9</trackNum>
+			<duration>151664</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Love%20Affair/%5BSophie%20Zelmani%5D%2010%20hard%20to%20know.mp3</location>
+			<title>Hard To Know</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Love Affair</album>
+			<trackNum>10</trackNum>
+			<duration>235172</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Love%20Affair/%5BSophie%20Zelmani%5D%2011%20your%20way.mp3</location>
+			<title>Your Way</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Love Affair</album>
+			<trackNum>11</trackNum>
+			<duration>310517</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Love%20Affair/%5BSophie%20Zelmani%5D%2012%20stay%20with%20my%20heart.mp3</location>
+			<title>Stay With My Heart</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Love Affair</album>
+			<trackNum>12</trackNum>
+			<duration>249142</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Love%20Affair/%5BSophie%20Zelmani%5D%2013%20lost%20in%20love.mp3</location>
+			<title>Lost In Love</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Love Affair</album>
+			<trackNum>13</trackNum>
+			<duration>173692</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Precious%20Burden/%5BSophie%20Zelmani%5D%2001%20leaving.mp3</location>
+			<title>leaving</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Precious Burden</album>
+			<trackNum>1</trackNum>
+			<duration>275882</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Precious%20Burden/%5BSophie%20Zelmani%5D%2002%20black%20day.mp3</location>
+			<title>black day</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Precious Burden</album>
+			<trackNum>2</trackNum>
+			<duration>221318</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Precious%20Burden/%5BSophie%20Zelmani%5D%2003%20precious%20burden.mp3</location>
+			<title>precious burden</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Precious Burden</album>
+			<trackNum>3</trackNum>
+			<duration>210259</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Precious%20Burden/%5BSophie%20Zelmani%5D%2004%20so%20long.mp3</location>
+			<title>so long</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Precious Burden</album>
+			<trackNum>4</trackNum>
+			<duration>242495</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Precious%20Burden/%5BSophie%20Zelmani%5D%2005%20excuse%20me.mp3</location>
+			<title>excuse me</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Precious Burden</album>
+			<trackNum>5</trackNum>
+			<duration>201997</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Precious%20Burden/%5BSophie%20Zelmani%5D%2006%20got%20to%20stop.mp3</location>
+			<title>got to stop</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Precious Burden</album>
+			<trackNum>6</trackNum>
+			<duration>430242</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Precious%20Burden/%5BSophie%20Zelmani%5D%2007%20before%20the%20day%27s%20gone.mp3</location>
+			<title>before the day's gone</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Precious Burden</album>
+			<trackNum>7</trackNum>
+			<duration>218363</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Precious%20Burden/%5BSophie%20Zelmani%5D%2007%20before%20the%20day%B4s%20gone.mp3</location>
+			<creator>Sophie Zelmani</creator>
+			<album>Precius Burden</album>
+			<trackNum>7</trackNum>
+			<duration>218363</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Precious%20Burden/%5BSophie%20Zelmani%5D%2008%20goodbye.mp3</location>
+			<title>goodbye</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Precious Burden</album>
+			<trackNum>8</trackNum>
+			<duration>201552</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Precious%20Burden/%5BSophie%20Zelmani%5D%2009%20foolish.mp3</location>
+			<title>foolish</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Precious Burden</album>
+			<trackNum>9</trackNum>
+			<duration>162623</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Precious%20Burden/%5BSophie%20Zelmani%5D%2010%20curtain%20fall.mp3</location>
+			<title>curtain fall</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Precious Burden</album>
+			<trackNum>10</trackNum>
+			<duration>280667</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Precious%20Burden/%5BSophie%20Zelmani%5D%2011%20who%20am%20i.mp3</location>
+			<title>who am i</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Precious Burden</album>
+			<trackNum>11</trackNum>
+			<duration>147537</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Sing%20and%20Dance/%5BSophie%20Zelmani%5D%2001%20oh%20dear.mp3</location>
+			<title>Oh dear</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Sing And Dance</album>
+			<trackNum>1</trackNum>
+			<duration>430677</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Sing%20and%20Dance/%5BSophie%20Zelmani%5D%2002%20hows%20your%20heart%20doing.mp3</location>
+			<title>How's your heart doing</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Sing And Dance</album>
+			<trackNum>2</trackNum>
+			<duration>156896</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Sing%20and%20Dance/%5BSophie%20Zelmani%5D%2003%20going%20home.mp3</location>
+			<title>Going home</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Sing And Dance</album>
+			<trackNum>3</trackNum>
+			<duration>249770</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Sing%20and%20Dance/%5BSophie%20Zelmani%5D%2004%20people.mp3</location>
+			<title>people</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Sing and Dance</album>
+			<trackNum>4</trackNum>
+			<duration>226983</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Sing%20and%20Dance/%5BSophie%20Zelmani%5D%2005%20once.mp3</location>
+			<title>Once</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Sing And Dance</album>
+			<trackNum>5</trackNum>
+			<duration>206525</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Sing%20and%20Dance/%5BSophie%20Zelmani%5D%2006%20Breeze.mp3.mp3</location>
+			<title>Breeze</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Sing and dance</album>
+			<trackNum>6</trackNum>
+			<duration>243080</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Sing%20and%20Dance/%5BSophie%20Zelmani%5D%2007%20Sing%20and%20dance.mp3.mp3</location>
+			<title>Sing And Dance</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Sing And Dance</album>
+			<trackNum>7</trackNum>
+			<duration>203639</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Sing%20and%20Dance/%5BSophie%20Zelmani%5D%2008%20Yes%20I%20Am.mp3.mp3</location>
+			<title>Yes I Am</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Sing And Dance</album>
+			<trackNum>8</trackNum>
+			<duration>173718</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Sing%20and%20Dance/%5BSophie%20Zelmani%5D%2009%20Moonlight.mp3</location>
+			<title>Moonlight</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Sing And Dance</album>
+			<trackNum>9</trackNum>
+			<duration>158152</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Sing%20and%20Dance/%5BSophie%20Zelmani%5D%2010%20Gone%20with%20the%20madness.mp3</location>
+			<title>Gone with the madness</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Sing and dance</album>
+			<trackNum>10</trackNum>
+			<duration>174262</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Sing%20and%20Dance/%5BSophie%20Zelmani%5D%2011%20How%20it%20feels.mp3.mp3</location>
+			<title>How it feels</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Sing and dance</album>
+			<trackNum>11</trackNum>
+			<duration>235479</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Sophie%20Zelmani/%5BSophie%20Zelmani%5D%2001%20I%27d%20Be%20Broken.mp3</location>
+			<title>I'd Be Broken</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Sophie Zelmani</album>
+			<trackNum>1</trackNum>
+			<duration>257636</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Sophie%20Zelmani/%5BSophie%20Zelmani%5D%2002%20Stand%20By.mp3</location>
+			<title>Stand By</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Sophie Zelmani</album>
+			<trackNum>2</trackNum>
+			<duration>181999</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Sophie%20Zelmani/%5BSophie%20Zelmani%5D%2003%20There%20Must%20Be%20A%20Reason.mp3</location>
+			<title>There Must Be A Reason</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Sophie Zelmani</album>
+			<trackNum>3</trackNum>
+			<duration>147356</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Sophie%20Zelmani/%5BSophie%20Zelmani%5D%2004%20So%20Good.mp3</location>
+			<title>So Good</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Sophie Zelmani</album>
+			<trackNum>4</trackNum>
+			<duration>255570</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Sophie%20Zelmani/%5BSophie%20Zelmani%5D%2005%20Always%20You.mp3</location>
+			<title>Always You</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Sophie Zelmani</album>
+			<trackNum>5</trackNum>
+			<duration>171697</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Sophie%20Zelmani/%5BSophie%20Zelmani%5D%2006%20A%20Thousand%20Times.mp3</location>
+			<title>A Thousand Times</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Sophie Zelmani</album>
+			<trackNum>6</trackNum>
+			<duration>162521</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Sophie%20Zelmani/%5BSophie%20Zelmani%5D%2007%20Tell%20Me%20You%27re%20Joking.mp3</location>
+			<title>Tell Me You're Joking</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Sophie Zelmani</album>
+			<trackNum>7</trackNum>
+			<duration>163749</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Sophie%20Zelmani/%5BSophie%20Zelmani%5D%2008%20Woman%20In%20Me.mp3</location>
+			<title>Woman In Me</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Sophie Zelmani</album>
+			<trackNum>8</trackNum>
+			<duration>125891</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Sophie%20Zelmani/%5BSophie%20Zelmani%5D%2009%20You%20And%20Him%20string%20version.mp3</location>
+			<title>You And Him string version</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Sophie Zelmani</album>
+			<trackNum>9</trackNum>
+			<duration>210130</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Sophie%20Zelmani/%5BSophie%20Zelmani%5D%2010%20Until%20Dawn.mp3</location>
+			<title>Until Dawn</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Sophie Zelmani</album>
+			<trackNum>10</trackNum>
+			<duration>200300</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Sophie%20Zelmani/%5BSophie%20Zelmani%5D%2011%20I%27ll%20Remember%20You.mp3</location>
+			<title>I'll Remember You</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Sophie Zelmani</album>
+			<trackNum>11</trackNum>
+			<duration>198627</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Sophie%20Zelmani/%5BSophie%20Zelmani%5D%2012%20I%27ll%20See%20You%20In%20Another%20World.mp3</location>
+			<title>I'll See You In Another World</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Sophie Zelmani</album>
+			<trackNum>12</trackNum>
+			<duration>255623</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/The%20Ocean%20And%20Me/%5BSophie%20Zelmani%5D%2001%20the%20ocean%20and%20me.mp3</location>
+			<title>The Ocean And Me</title>
+			<creator>Sophie Zelmani</creator>
+			<album>The Ocean And Me</album>
+			<trackNum>1</trackNum>
+			<duration>235911</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/The%20Ocean%20And%20Me/%5BSophie%20Zelmani%5D%2002%20composing.mp3</location>
+			<title>Composing</title>
+			<creator>Sophie Zelmani</creator>
+			<album>The Ocean And Me</album>
+			<trackNum>2</trackNum>
+			<duration>318798</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/The%20Ocean%20And%20Me/%5BSophie%20Zelmani%5D%2003%20spring%20love.mp3</location>
+			<title>Spring Love</title>
+			<creator>Sophie Zelmani</creator>
+			<album>The Ocean And Me</album>
+			<trackNum>3</trackNum>
+			<duration>189257</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/The%20Ocean%20And%20Me/%5BSophie%20Zelmani%5D%2004%20time.mp3</location>
+			<title>Time</title>
+			<creator>Sophie Zelmani</creator>
+			<album>The Ocean And Me</album>
+			<trackNum>4</trackNum>
+			<duration>235284</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/The%20Ocean%20And%20Me/%5BSophie%20Zelmani%5D%2005%20passing%20by.mp3</location>
+			<title>Passing By</title>
+			<creator>Sophie Zelmani</creator>
+			<album>The Ocean And Me</album>
+			<trackNum>5</trackNum>
+			<duration>199993</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/The%20Ocean%20And%20Me/%5BSophie%20Zelmani%5D%2006%20wind%20took%20my%20sail.mp3</location>
+			<title>Wind Took My Sail</title>
+			<creator>Sophie Zelmani</creator>
+			<album>The Ocean And Me</album>
+			<trackNum>6</trackNum>
+			<duration>185391</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/The%20Ocean%20And%20Me/%5BSophie%20Zelmani%5D%2007%20yeah%20okey.mp3</location>
+			<title>Yeah, Okey</title>
+			<creator>Sophie Zelmani</creator>
+			<album>The Ocean And Me</album>
+			<trackNum>7</trackNum>
+			<duration>213133</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/The%20Ocean%20And%20Me/%5BSophie%20Zelmani%5D%2008%20love.mp3</location>
+			<title>Love</title>
+			<creator>Sophie Zelmani</creator>
+			<album>The Ocean And Me</album>
+			<trackNum>8</trackNum>
+			<duration>193097</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/The%20Ocean%20And%20Me/%5BSophie%20Zelmani%5D%2009%20ive%20got%20a%20suspicion.mp3</location>
+			<title>I've Got A Suspicion</title>
+			<creator>Sophie Zelmani</creator>
+			<album>The Ocean And Me</album>
+			<trackNum>9</trackNum>
+			<duration>226351</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/The%20Ocean%20And%20Me/%5BSophie%20Zelmani%5D%2010%20this%20room.mp3</location>
+			<title>This Room</title>
+			<creator>Sophie Zelmani</creator>
+			<album>The Ocean And Me</album>
+			<trackNum>10</trackNum>
+			<duration>230661</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/The%20Ocean%20And%20Me/%5BSophie%20Zelmani%5D%2011%20july%20waits.mp3</location>
+			<title>July Waits</title>
+			<creator>Sophie Zelmani</creator>
+			<album>The Ocean And Me</album>
+			<trackNum>11</trackNum>
+			<duration>158746</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/The%20Ocean%20And%20Me/%5BSophie%20Zelmani%5D%2012%20i%20will%20be%20there.mp3</location>
+			<title>I Will Be There</title>
+			<creator>Sophie Zelmani</creator>
+			<album>The Ocean And Me</album>
+			<trackNum>12</trackNum>
+			<duration>226377</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Time%20to%20kill/%5BSophie%20Zelmani%5D%2001%20my.mp3</location>
+			<title>My</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Time To Kill</album>
+			<trackNum>1</trackNum>
+			<duration>186563</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Time%20to%20kill/%5BSophie%20Zelmani%5D%2002%20losing%20you.mp3</location>
+			<title>Losing You</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Time To Kill</album>
+			<trackNum>2</trackNum>
+			<duration>210030</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Time%20to%20kill/%5BSophie%20Zelmani%5D%2003%20nostalgia.mp3</location>
+			<title>Nostalgia</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Time To Kill</album>
+			<trackNum>3</trackNum>
+			<duration>239410</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Time%20to%20kill/%5BSophie%20Zelmani%5D%2004%20time%20to%20kill.mp3</location>
+			<title>Time to Kill</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Time To Kill</album>
+			<trackNum>4</trackNum>
+			<duration>198912</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Time%20to%20kill/%5BSophie%20Zelmani%5D%2005%20why.mp3</location>
+			<title>Why</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Time To Kill</album>
+			<trackNum>5</trackNum>
+			<duration>276429</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Time%20to%20kill/%5BSophie%20Zelmani%5D%2006%20happier%20man.mp3</location>
+			<title>Happier Man</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Time To Kill</album>
+			<trackNum>6</trackNum>
+			<duration>268815</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Time%20to%20kill/%5BSophie%20Zelmani%5D%2007%20dreamer.mp3</location>
+			<title>Dreamer</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Time To Kill</album>
+			<trackNum>7</trackNum>
+			<duration>271955</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Time%20to%20kill/%5BSophie%20Zelmani%5D%2008%20on%20your%20way.mp3</location>
+			<title>On Your Way</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Time To Kill</album>
+			<trackNum>8</trackNum>
+			<duration>139368</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Time%20to%20kill/%5BSophie%20Zelmani%5D%2009%20i%20dont%20know.mp3</location>
+			<title>I Don't Know</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Time To Kill</album>
+			<trackNum>9</trackNum>
+			<duration>289562</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Time%20to%20kill/%5BSophie%20Zelmani%5D%2010%20gone%20so%20long.mp3</location>
+			<title>Gone So Long</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Time To Kill</album>
+			<trackNum>10</trackNum>
+			<duration>185779</duration>
+		</track>
+		<track>
+			<location>../../media/music/Sophie%20Zelmani/Time%20to%20kill/%5BSophie%20Zelmani%5D%2011%20fire.mp3</location>
+			<title>Fire</title>
+			<creator>Sophie Zelmani</creator>
+			<album>Time To Kill</album>
+			<trackNum>11</trackNum>
+			<duration>311616</duration>
+		</track>
+	</trackList>
+</playlist>
